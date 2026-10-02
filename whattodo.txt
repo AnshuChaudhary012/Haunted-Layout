@@ -1,6 +1,0 @@
-what to do in this layout ?
-Below will be steps:-
- adding color leading and utilities  in this project
- adding my own animation in the btns
- adding animation in the project 
- faq , roadmap study
